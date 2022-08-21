@@ -1,1 +1,2 @@
 # Solutions_Architect_Excercise_1-Game_Developer
+An ongoing project to learn more about AWS Solutions Architect practices. I plan to cover cloud integration with a fictional company that has launched a MMO game and wishes to use AWS. The primary purpose is to keep myself updated on AWS services I have previously studied while learning more about ones I have not been exposed to as of yet and to hopefully build skills that could further my career.
